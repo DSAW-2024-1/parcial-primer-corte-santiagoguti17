@@ -20,7 +20,7 @@ body {
 /*white container box*/
 .main{
     width: 5%;
-    background-color: hsl(0, 84%, 24%);
+    
     padding: 2rem;
     border-radius: 30px;
     display: flex;
@@ -32,7 +32,7 @@ body {
 @media (max-width: 320px){
     .svg-container img{
         width: 100%;
-        height: 
+        height: 7rem;
         border-radius: 4px;
     }
 
